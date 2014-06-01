@@ -1,0 +1,2 @@
+se a lista de pontos for vazia no lista pontos
+implementar predicado tipoNodo
